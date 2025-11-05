@@ -1,0 +1,28 @@
+Component Name,Manufacturer,Part Number,Quantity,Description,CAD Files
+Power supply,Allen-Bradley,1606-XLB,1,24 V DC / 10 A switching power supply,https://configurator.rockwellautomation.com/api/Doc/1606-XLB60E.zip
+Circuit breaker,Allen-Bradley,1489-M (10A C-curve),1,"Two-pole miniature circuit breaker, UL489 rated, 10 A, 480Y/277 V",https://configurator.rockwellautomation.com/api/Doc/1489-M_3pole.zip
+ControlLogix 5580 controller,Allen-Bradley,1756-L81E,1,ControlLogix 5580 CPU with Ethernet,https://configurator.rockwellautomation.com/api/Doc/1756-L81E.zip
+ControlLogix D/I module,Allen-Bradley,1756-IB16,1,16-point digital input module,https://configurator.rockwellautomation.com/api/Doc/1756-generic_module.zip
+ControlLogix D/O module,Allen-Bradley,1756-OB16I,1,16-point isolated digital output module,https://configurator.rockwellautomation.com/api/Doc/1756-OB16I.zip
+ControlLogix A/I module,Allen-Bradley,1756-IF8,1,8-channel analog input module,https://configurator.rockwellautomation.com/api/Doc/1756-IF8.zip
+ControlLogix A/O module,Allen-Bradley,1756-OF4,1,4-channel analog output module,https://configurator.rockwellautomation.com/api/Doc/1756-OF4.zip
+ControlLogix chassis,Allen-Bradley,1756-A7,1,ControlLogix backplane/chassis 7-slot,https://configurator.rockwellautomation.com/api/Doc/1756-A7.zip
+PanelView 5310 HMI,Allen-Bradley,TBD,1,Touch-screen HMI mounted below the ControlLogix rack,https://configurator.rockwellautomation.com/api/Doc/2713P-T7WD1-K.zip
+CompactLogix 5069 EtherNet/IP adapter,Allen-Bradley,5069-AENTR,1,Compact I/O EtherNet/IP adapter,https://configurator.rockwellautomation.com/api/Doc/5069-AENTR.zip
+CompactLogix D/I module,Allen-Bradley,5069-IB16,1,16-point digital input module (5069 series),https://configurator.rockwellautomation.com/api/Doc/5069-IB16K.zip
+CompactLogix D/O module,Allen-Bradley,5069-OB16,1,16-point digital output module (5069 series),https://configurator.rockwellautomation.com/api/Doc/5069-OB16.zip
+Hirschmann rail switch,Hirschmann,SPIDER 5TX,1,Unmanaged Ethernet rail switch,https://3dwarehouse.sketchup.com/model/9a82e130e7fae0ab541781a60f032c07/Hirschmann%E2%84%A2-Spider-5TX-Industrial-Ethernet-Switch
+SIMATIC S7-1500 A/I module,Siemens,6ES7531-7KF00-0AB0,1,S7-1500 AI 8×U/I/RTD/TC ST analog input module,https://www.3dfindit.com/en/cad-bim-library/manufacturer/stone/siemens-2/plc/s7-1500/6es7531-7kf00-0ab0
+SIMATIC S7-1500 A/O module,Siemens,6ES7532-5HD00-0AB0,1,S7-1500 AQ 4×U/I ST analog output module,https://www.3dfindit.com/en/cad-bim-library/manufacturer/stone/siemens-2/plc/s7-1500/6es7532-5hd00-0ab0
+SIMATIC S7-1500 D/I module,Siemens,6ES7521-1BL00-0AB0,1,S7-1500 DI 32×24 VDC HF digital input module,https://www.3dfindit.com/en/cad-bim-library/manufacturer/stone/siemens-2/plc/s7-1500/6es7521-1bl00-0ab0
+SIMATIC S7-1500 D/O module,Siemens,6ES7522-1BL01-0AB0,1,S7-1500 DQ 32×24 VDC/0.5 A HF digital output module,https://www.3dfindit.com/en/cad-bim-library/manufacturer/stone/siemens-2/plc/s7-1500/6es7522-1bl01-0ab0
+SIMATIC S7-1500 controller,Siemens,6ES7516-3FP03-0AB0,1,IM 155-6 PN/2 HF interface module for ET 200SP,https://www.3dfindit.com/en/search/6ES7516-3FP03-0AB0
+SIMATIC ET 200SP BusAdapter,Siemens,6ES7193-6AR00-0AA0,1,Base unit for ET 200SP modules,https://www.3dfindit.com/en/search/6ES7193-6AR00-0AA0
+ET 200SP IO-Link module,Siemens,CM 4×IO-Link,1,ET 200SP communication module for 4 IO-Link devices,https://www.3dfindit.com/en/search/6ES7137-6BD00-0BA0
+ET 200SP digital input module,Siemens,6ES7131-6BF00-0BA0,2,ET 200SP DI 8×24 VDC HF digital input modules (two units),https://www.3dfindit.com/en/search/6ES7131-6BF00-0BA0
+ET 200SP digital output module,Siemens,6ES7132-6BF00-0CA0,2,ET 200SP DQ 8×24 VDC/0.5 A HF digital output modules (two units),https://www.3dfindit.com/en/search/6ES7132-6BF00-0CA0
+ET 200SP interface base (two-port RJ45),Siemens,6ES7193-6AF00-0AA0,1,BA 2×RJ45 communications interface module,https://www.3dfindit.com/en/search/6ES7193-6AF00-0AA0
+S7-1500 analog output module (AO 4×U/I),Siemens,6ES7532-5HB00-0AB0,1,S7-1500 analog output module (variant with AO 4×U/I),https://www.3dfindit.com/en/search/6ES7532-5HB00-0AB0
+Allen-Bradley terminal block,Allen-Bradley,1492-J4,TBD,"Din-rail feed-through terminal block, grey, 4 mm²",https://configurator.rockwellautomation.com/api/Doc/1492-j4.zip
+DIN rail,TBD,TBD,TBD,Standard EN 50022 aluminum mounting rail,https://grabcad.com/library/din-rail-aluminum-35-mm-wide-7-mm-height-4-mm-wide-and-8-mm-length-slots-100-mm-length-1
+AirStream Wiring System,Lutze,TBD,TBD,Custom electrical panel wiring system-  46x44in,TBD

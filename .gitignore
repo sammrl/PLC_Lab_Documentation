@@ -1,0 +1,30 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# SolidWorks
+*.SLDPRT~*
+*.SLDASM~*
+*.SLDDRW~*
+*.sldwrk
+~$*.*
+*.Temp*
+
+# AutoCAD / SWE temp
+*.bak
+*.sv$
+*.dwl
+*.dwl2
+
+# Studio 5000
+*.bak_*
+*.tmp
+*/RuntimeCache/*
+
+# General
+.DS_Store
+*.log
+
+
+
+#TODO: Add eCAD (SWE+ACE) filetypes 

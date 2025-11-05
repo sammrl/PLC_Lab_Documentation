@@ -59,7 +59,7 @@ This package exists to provide a **hardware-level reference** for students, inst
 
 ---
 
-## ✅ **Repository Structure**
+## **Repository Structure**
 
 ```
 00_Overview_Standards/   → Scope, revision log, drawing/tagging rules  
@@ -111,7 +111,7 @@ _templates/              → Blank forms (tags, IO table)
 
 ---
 
-## ✅ **Goal**
+## **Goal**
 
 Provide a clear, accurate, professional documentation package that describes **GTCC Mechatronics PLC Lab Station**, how it is wired, and how it is configured and networked to other systems (FANUC Robots, VFDs, etc.)
 

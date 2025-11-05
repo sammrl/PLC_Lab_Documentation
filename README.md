@@ -8,7 +8,8 @@ The station does **not** include pre-wired field devices or pre-programmed logic
 
 ## **Scope**
 
-Document the **physical configuration, wiring, power distribution, and network setup** of a singular PLC Lab Training Station, consisting of a dual-vendor PLC training workstation including **Allen-Bradley (Rockwell) ControlLogix + CompactLogix remote I/O** and **Siemens S7-1500 + SIMATIC ET 200 remote I/O**, plus an **Allen-Bradley PanelView 5310 HMI**, 24 VDC power subsystem, DIN-rail infrastructure, and lab Ethernet connectivity. The station is a **hardware-only instructional platform**: no pre-wired field devices and no preloaded logic/HMI.
+Document the **physical configuration, wiring, power distribution, and network setup** of a singular PLC Lab Training Station, consisting of a dual-vendor PLC training workstation including **Allen-Bradley (Rockwell) ControlLogix + CompactLogix remote I/O** and **Siemens S7-1500 + SIMATIC ET 200 remote I/O**, plus an **Allen-Bradley PanelView 5310 HMI**, 24 VDC power subsystem, DIN-rail infrastructure, and lab Ethernet connectivity. 
+
 
 ## 1) Rockwell / Allen-Bradley Stack
 
